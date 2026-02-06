@@ -80,7 +80,7 @@ class Discriminator(nn.Module):
 def train():
     # Load data
     print("Loading dataset...")
-    dataset = MNISTCSVDataset('c:/GAN/mnist_dataset.csv')
+    dataset = MNISTCSVDataset('mnist_dataset.csv')
     dataloader = DataLoader(dataset, batch_size=BATCH_SIZE, shuffle=True)
 
     # Initialize models

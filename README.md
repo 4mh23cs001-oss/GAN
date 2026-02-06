@@ -70,6 +70,3 @@ Open `http://127.0.0.1:5000` in your browser to start generating digits!
 ## ✨ Results
 Below is an example of the progression of generated digits after 100 epochs of training:
 *(Check the `samples/` folder for visual results from Epoch 2 to 100)*
-
----
-Developed by [KEERTHANA](https://github.com/4mh23cs001-oss)
