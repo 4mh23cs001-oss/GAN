@@ -1,0 +1,20 @@
+# Datasets
+mnist_dataset.csv
+
+# Zip files
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
